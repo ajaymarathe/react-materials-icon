@@ -9,8 +9,8 @@
 ```js
 npm install --save react-materials-icon
 
-//include this cdn link in your root html head
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+//import material-icon scss
+import 'material-icons/iconfont/material-icons.scss';
 ```
 
 ## Usage
@@ -32,10 +32,10 @@ class Example extends Component {
 ```
 
 ## Props
-- icon: pass icon name `e.g -android` [material-icons](https://material.io/resources/icons/?style=baseline)
-- size: pass icon size `size in rem`
-- color: you can give any valid value `i.e red, yellow, #fffff, #ff0000.`
+- **icon**: pass icon name `e.g -android` [material-icons](https://material.io/resources/icons/?style=baseline)
+- **size**: pass icon size `size in rem`
+- **color**: you can give any valid value `i.e red, yellow, #fffff, #ff0000.`
 
 ## License
 
-MIT © [](https://github.com/ajaymarathe/react-materials-icon/blob/master/LICENSE)
+MIT © [License](https://github.com/ajaymarathe/react-materials-icon/blob/master/LICENSE)

@@ -1,6 +1,6 @@
 {
   "name": "react-materials-icon",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "🍺 Hi there, material icons for react lovers &lt;3, Thanks...",
   "author": "ajay marathe",
   "license": "MIT",
@@ -79,5 +79,9 @@
   ],
   "files": [
     "dist"
-  ]
+  ],
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {}
 }
