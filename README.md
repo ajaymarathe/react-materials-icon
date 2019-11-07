@@ -2,7 +2,8 @@
 
 > 🍺 Hi there, material icons for react lovers &lt;3, Thanks...
 
-[![NPM](https://img.shields.io/npm/v/react-materials-icon.svg)](https://www.npmjs.com/package/react-materials-icon) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-materials-icon.svg)](https://www.npmjs.com/package/react-materials-icon) [![NPM](https://img.shields.io/npm/dt/react-materials-icon.svg)](https://www.npmjs.com/package/react-materials-icon) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
